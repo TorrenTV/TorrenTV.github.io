@@ -237,7 +237,7 @@ li {
 }
 
 .download-requirements {
-	margin: 0 0 70px;
+	margin: 0 0 10px;
 	-webkit-backface-visibility: hidden;
 	opacity: 0.7;
 	font-size: 13px;
@@ -635,4 +635,8 @@ display: block;
 transition: opacity 0.2s ease;
 overflow: hidden;
 text-indent: -9999px;
+}
+
+.donate {
+    margin-bottom: 30px;
 }
