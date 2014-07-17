@@ -219,7 +219,7 @@ li {
   color: #fff;
 }
 
-.download-button::before {
+.download2-button::before {
 	content: "";
 	width: 23px;
 	height: 24px;
@@ -638,5 +638,17 @@ text-indent: -9999px;
 }
 
 .donate {
+    margin-top:20px;
     margin-bottom: 30px;
+}
+
+.icon-win:before {
+    content: "\e602";
+}
+
+.mail-form {
+    margin-top: 30px;
+    margin:auto;
+    width:50%;
+    background-color: #eeffcc;
 }
