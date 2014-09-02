@@ -1,0 +1,48 @@
+{
+	"windows": {
+		"version": "0.3.2",
+		"updateUrl": "http://cdn.popcorntime.io/_updates/0_3_2.exe",
+		"checksum": "df234d00499f8b4ece95eb681eab54d13e3f099a",
+		"signature": "MCwCFFpm5K98dKFbeUEGT11LVuBv00WZAhRBqyomwzfZV9uABfokMh+CbNwXtw==",
+		"title": "0.3.2 Beta Release",
+		"description": "Attention, please read changelog.",
+		"changeLog": ["For more information please visit our blog","Official website: http://popcorntime.io","Official blog: http://blog.popcorntime.io"],
+		"gitTag": "v0.3.2",
+		"gitCommit": "1c777a09bd"
+	},
+	"linux": {
+		"x86": {
+			"version": "0.3.2",
+			"updateUrl": "http://cdn.popcorntime.io/_updates/0_3_2.nw",
+			"checksum": "c576043b302c53c5f46588ebfe671e79ef9c4afe",
+			"signature": "MCwCFAta/GrvyfAEHWtttwKwJiTf4AfBAhQ7SzAuSs5tk2I96YFhMfm+xB4sxg==",
+			"title": "0.3.2 Beta Release",
+			"description": "Attention, please read changelog.",
+			"changeLog": ["For more information please visit our blog","Official website: http://popcorntime.io","Official blog: http://blog.popcorntime.io"],
+			"gitTag": "v0.3.2",
+			"gitCommit": "1c777a09bd"
+		},
+		"x64": {
+			"version": "0.3.2",
+			"updateUrl": "http://cdn.popcorntime.io/_updates/0_3_2.nw",
+			"checksum": "c576043b302c53c5f46588ebfe671e79ef9c4afe",
+			"signature": "MCwCFAta/GrvyfAEHWtttwKwJiTf4AfBAhQ7SzAuSs5tk2I96YFhMfm+xB4sxg==",
+			"title": "0.3.2 Beta Release",
+			"description": "Attention, please read changelog.",
+			"changeLog": ["For more information please visit our blog","Official website: http://popcorntime.io","Official blog: http://blog.popcorntime.io"],
+			"gitTag": "v0.3.2",
+			"gitCommit": "1c777a09bd"
+		}
+	},
+	"mac": {
+		"version": "0.3.2",
+		"updateUrl": "http://cdn.popcorntime.io/_updates/0_3_2.nw",
+		"checksum": "c576043b302c53c5f46588ebfe671e79ef9c4afe",
+		"signature": "MCwCFAta/GrvyfAEHWtttwKwJiTf4AfBAhQ7SzAuSs5tk2I96YFhMfm+xB4sxg==",
+		"title": "0.3.2 Beta Release",
+		"description": "Attention, please read changelog.",
+		"changeLog": ["For more information please visit our blog","Official website: http://popcorntime.io","Official blog: http://blog.popcorntime.io"],
+		"gitTag": "v0.3.2",
+		"gitCommit": "1c777a09bd"
+	}
+}
