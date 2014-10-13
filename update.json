@@ -36,7 +36,7 @@
 	},
 	"mac": {
 		"version": "0.3.2",
-		"updateUrl": "http://carlosguerrero.com/TorrenTV.nw",
+		"updateUrl": "https://github.com/TorrenTV/Installers/raw/master/TorrenTV.nw",
 		"checksum": "c576043b302c53c5f46588ebfe671e79ef9c4afe",
 		"signature": "MCwCFAta/GrvyfAEHWtttwKwJiTf4AfBAhQ7SzAuSs5tk2I96YFhMfm+xB4sxg==",
 		"title": "0.3.2 Beta Release",
