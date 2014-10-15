@@ -37,8 +37,8 @@
 	"mac": {
 		"version": "0.3.2",
 		"updateUrl": "https://github.com/TorrenTV/Installers/raw/master/TorrenTV.nw",
-		"checksum": "18b7d68e466242557f7ca782ff787e91000a10f4",
-		"signature": "W5T71mykivOEDm0G/Cu1N6vZRH13HtlUfYhQWKGOqWuq5wafFdk+dBP6w2wcKRPjnZwYdHYc/RVZ095AT8kMqU6m9cNyY3SIyynLwwzFKKo0Xgpx6y1s5mayd5x18pRdKp1et5jGobO3LHX0EmaVkKVoe2w80ODtMz6AwifMEvaP9G21JTQ7PpLXu7pmWDgRzRG2UTZqri0LoJAdOZ2fQlSqXnkEkKEfm4VnIqEmEXwDOAF7gFHS8IUBlYcvcexXU7tLTucKbBVKlP7Ls1yVTkijZN3C/TojOS7t6vJbp9ZdSwzT2wnFly/0dzztwJuciZfBRmGjSVyAZfjIbnijew==",
+		"checksum": "5685f26f8b8c24b2c6dae39f7701995d39d8b5e3",
+		"signature": "mPueuichtazYmnwKKi6W1Z0jc7vlVzXu+qHP2816rzZNcOf/ff+5bTKbryTcnCox8A1H6udn3/Zv9+y6qn8huL/xMrE+BgULNjewXNbFe+796xt3DPkamXCy1AIjrexsdXoomOt6BnnofUCB5u3D8/KUfWvilpZrg6FVjt1yonB7RQQK4zF2Y7nyAiDPXoDiAtbCKpgi+JKQierxTeAEoaPoGvj3jZwC+9r6/QLEBgrIijh0SbQobYhtwi+SznOyfg8Du/yeEWjPd/VQnY18sJR5g0tY4oZCp7sgVDS+DDUReq2xNULdJU5vVnk4XYJGK7+CJfvA8vhWKnwM9GUaqg==",
 		"title": "0.3.2 Beta Release",
 		"description": "Attention, please read changelog.",
 		"changeLog": ["For more information please visit our blog","Official website: http://popcorntime.io","Official blog: http://blog.popcorntime.io"],
