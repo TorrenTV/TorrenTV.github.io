@@ -1,9 +1,9 @@
 {
 	"windows": {
 		"version": "0.3.2",
-		"updateUrl": "http://carlosguerrero.com/downloads/TorrenTV.exe",
-		"checksum": "d238d7d69431622a7991fd18eb096625e1a934ee",
-		"signature": "dpXHTQWMGSEbFr2Rjx/UumNUUpGv/Z7gwZwAsu+KHmO2MNH/IPvavGP4eKRMONHaMZLxh8IDUWBKvxyFRAXsKj446dJdfzvQUAtI5lG3VxWJw4IVZlME0KxGZoWbLqDyQwX7LICzD3BBS6d+ZUDhQN2muvo5Gjd9iRoRo3N+7Zr7pxBchXZyQmgOLz57uxxON8Yh8vgiKL1axED5UmvammjvwIV7n0F8fNXmnVyRBn88Pr/PjDNyDWmb+qRiu9KKhGgr+wt8yf0DchJ+LyOGTtOeO9Sng6yKcEagyXrVMZQE311l+HE3Hmeto9aRpGBCrAE/IkDOGBseZQQ+v043Xg==",
+        "updateUrl": "https://github.com/TorrenTV/Installers/raw/master/TorrenTV.nw",
+        "checksum": "5685f26f8b8c24b2c6dae39f7701995d39d8b5e3",
+        "signature": "Ekkt2JNGiVtc5fBm4szCmr95iqMlM3yOVnIm6cYgcM+LgMowhi0673CgRwDb+F0xtA9Vy5v1ra/yypVxcCM60DZQnK5uyPT1PAuF2iagh+WvgQbCSeSXfXho9gWtQBFeaYEmJ9NCmW37oZskv/CDgQrsua0yi/dHXSCwr3rUw0wBY5f+1BBGLNyuRbi1W2cN8d3dW2xM/iloSH9MPBecbwQ0vfd9R7mwAbHEQxByrmH4mJGcnBX4ui1ILHMSMpimJ/waqrcnGBsDZNqW4+/3lN4CFcZjejlveYyY7QYg29CMIHcnNyvX88zlnVy7RSXjh4DuuKE74jeBDHjxf5wcyg==",
 		"title": "0.3.2 Beta Release",
 		"description": "Attention, please read changelog.",
 		"changeLog": ["For more information please visit our blog","Official website: http://popcorntime.io","Official blog: http://blog.popcorntime.io"],
