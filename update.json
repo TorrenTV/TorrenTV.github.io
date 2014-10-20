@@ -2,8 +2,8 @@
 	"windows": {
 		"version": "0.3.2",
 		"updateUrl": "http://cdn.popcorntime.io/_updates/0_3_2.exe",
-		"checksum": "df234d00499f8b4ece95eb681eab54d13e3f099a",
-		"signature": "MCwCFFpm5K98dKFbeUEGT11LVuBv00WZAhRBqyomwzfZV9uABfokMh+CbNwXtw==",
+		"checksum": "d238d7d69431622a7991fd18eb096625e1a934ee",
+		"signature": "dpXHTQWMGSEbFr2Rjx/UumNUUpGv/Z7gwZwAsu+KHmO2MNH/IPvavGP4eKRMONHaMZLxh8IDUWBKvxyFRAXsKj446dJdfzvQUAtI5lG3VxWJw4IVZlME0KxGZoWbLqDyQwX7LICzD3BBS6d+ZUDhQN2muvo5Gjd9iRoRo3N+7Zr7pxBchXZyQmgOLz57uxxON8Yh8vgiKL1axED5UmvammjvwIV7n0F8fNXmnVyRBn88Pr/PjDNyDWmb+qRiu9KKhGgr+wt8yf0DchJ+LyOGTtOeO9Sng6yKcEagyXrVMZQE311l+HE3Hmeto9aRpGBCrAE/IkDOGBseZQQ+v043Xg==",
 		"title": "0.3.2 Beta Release",
 		"description": "Attention, please read changelog.",
 		"changeLog": ["For more information please visit our blog","Official website: http://popcorntime.io","Official blog: http://blog.popcorntime.io"],
